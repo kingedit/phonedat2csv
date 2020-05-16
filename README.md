@@ -18,6 +18,14 @@ https://github.com/lovedboy/phone
 
 使用“|”分割，将会将区号前面少一个0。
 
+## 所需
+
+需要将Github大神[xluohome](https://github.com/xluohome)提供的phone.dat文件放置在本脚本的同目录
+
+需要python的 pandas库
+
+
+
 ## 总结
 
 项目比较烂，但是能用，可以凑合
